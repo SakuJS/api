@@ -1,3 +1,20 @@
 {
-  
+  "courses": [
+        {
+            "name": "Introduccion a JavaScript y SakuJS",
+            "description": "",
+            "cid": "",
+            "experience": 10,
+            "badges": [
+                {
+                    "name": "Todos empezamos desde abajo",
+                    "icon": "URL_ICONO",
+                    "course_parent": "Introduccion a JavaScript y SakuJS"
+                }
+            ],
+            "author": "SakuJS Team",
+            "length": "25 mins",
+            "rating": 0
+        }
+    ]
 }
