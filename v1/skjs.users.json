@@ -66,22 +66,5 @@
             ],
             "usertype": "Test"
         }
-    ],
-    "courses": [
-        {
-            "name": "Introduccion a JavaScript y SakuJS",
-            "cid": "",
-            "experience": 10,
-            "badges": [
-                {
-                    "name": "Todos empezamos desde abajo",
-                    "icon": "URL_ICONO",
-                    "course_parent": "Introduccion a JavaScript y SakuJS"
-                }
-            ],
-            "author": "SakuJS Team",
-            "length": "10 mins",
-            "rating": 0
-        }
     ]
 }
