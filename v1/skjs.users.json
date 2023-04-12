@@ -20,7 +20,11 @@
                     "date": "03/03/1990"
                 }
             ],
-            "usertype": "Test"
+            "usertype": "Test",
+            "profile_data": {
+                "followers": 0,
+                "karma": 0
+            }
         },
         {
             "username": "TestUser2",

@@ -8,6 +8,7 @@
             "cid": "En1abRF1i0KCxCjXOSpXYg",
             "tag": "new",
             "state": "Nuevo",
+            "category": "Vanilla JS",
             "experience": 10,
             "badges": [
                 {
@@ -29,6 +30,7 @@
             "tag": "soon",
             "state": "Proximamente",
             "experience": 10,
+            "category": "NodeJS:Electron",
             "badges": [
                 {
                     "name": "Todos empezamos desde abajo",
@@ -48,6 +50,7 @@
             "cid": "xoYndY7LjkmFK0SsJl2ybQ",
             "tag": "maintenance",
             "state": "Bajo Mantenimiento",
+            "category": "NodeJS:React",
             "experience": 10,
             "badges": [
                 {
