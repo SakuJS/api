@@ -1,7 +1,7 @@
 {
   "courses": [
         {
-            "name": "Introduccion a JavaScript y SakuJS",
+            "name": "Test Course 1",
             "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
             "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
             "cid": "En1abRF1i0KCxCjXOSpXYg",
@@ -18,7 +18,7 @@
             "rating": 0
         },
         {
-            "name": "Introduccion a JavaScript y SakuJS",
+            "name": "Test Course 2",
             "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
             "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
             "cid": "En1abRF1i0KCxCjXOSpXYg",
@@ -35,7 +35,7 @@
             "rating": 0
         },
         {
-            "name": "Introduccion a JavaScript y SakuJS",
+            "name": "Test Course 3",
             "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
             "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
             "cid": "En1abRF1i0KCxCjXOSpXYg",
