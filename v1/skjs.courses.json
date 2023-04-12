@@ -39,6 +39,26 @@
             "author": "SakuJS Team",
             "length": "25 mins",
             "rating": 0
+        },
+        {
+            "name": "ReactJS y Aplicaciones Moviles",
+            "description": "React es tán increible... Que incluso puedes desarrollar para Moviles!",
+            "thumbnail": "https://codipher.com/wp-content/uploads/2023/02/images-58.jpeg",
+            "release": "10/03/2023",
+            "cid": "xoYndY7LjkmFK0SsJl2ybQ",
+            "tag": "maintenance",
+            "state": "Bajo Mantenimiento",
+            "experience": 10,
+            "badges": [
+                {
+                    "name": "Todos empezamos desde abajo",
+                    "icon": "URL_ICONO",
+                    "course_parent": "Introduccion a JavaScript y SakuJS"
+                }
+            ],
+            "author": "SakuJS Team",
+            "length": "25 mins",
+            "rating": 0
         }
     ]
 }
