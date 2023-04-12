@@ -3,7 +3,7 @@
         {
             "name": "Introduccion a JavaScript y SakuJS",
             "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
-            "thumbnail" "https://"
+            "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
             "cid": "En1abRF1i0KCxCjXOSpXYg",
             "experience": 10,
             "badges": [
@@ -20,6 +20,24 @@
         {
             "name": "Introduccion a JavaScript y SakuJS",
             "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
+            "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
+            "cid": "En1abRF1i0KCxCjXOSpXYg",
+            "experience": 10,
+            "badges": [
+                {
+                    "name": "Todos empezamos desde abajo",
+                    "icon": "URL_ICONO",
+                    "course_parent": "Introduccion a JavaScript y SakuJS"
+                }
+            ],
+            "author": "SakuJS Team",
+            "length": "25 mins",
+            "rating": 0
+        },
+        {
+            "name": "Introduccion a JavaScript y SakuJS",
+            "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
+            "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
             "cid": "En1abRF1i0KCxCjXOSpXYg",
             "experience": 10,
             "badges": [
