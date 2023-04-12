@@ -3,6 +3,7 @@
         {
             "username": "TestUser",
             "alias": "@test_user",
+            "picture": "",
             "email": "johndoe@domain.com",
             "authkey": "de79e6bb-3f99-4a75-8462-e3299a25ea9f",
             "level": 0,
@@ -29,6 +30,7 @@
         {
             "username": "TestUser2",
             "alias": "test_user_2",
+            "picture": "",
             "email": "johndoe2@domain.com",
             "authkey": "f5b639e5-348c-40b7-a014-70b076d313f8",
             "level": 0,
@@ -46,11 +48,16 @@
                     "date": "03/03/1990"
                 }
             ],
-            "usertype": "Test"
+            "usertype": "Test",
+            "profile_data": {
+                "followers": 0,
+                "karma": 0
+            }
         },
         {
             "username": "TestUser3",
             "alias": "test_user_3",
+            "picture": "",
             "email": "johndoe3@domain.com",
             "authkey": "16bf6603-7358-4f04-89b6-eb8f0eba4203",
             "level": 0,
@@ -68,7 +75,11 @@
                     "date": "03/03/1990"
                 }
             ],
-            "usertype": "Test"
+            "usertype": "Test",
+            "profile_data": {
+                "followers": 0,
+                "karma": 0
+            }
         }
     ]
 }
