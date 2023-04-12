@@ -1,7 +1,7 @@
 {
   "courses": [
         {
-            "name": "Introducción al Javascript",
+            "name": "Introducción a Javascript",
             "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
             "thumbnail": "https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
             "release": "15/04/2023",
