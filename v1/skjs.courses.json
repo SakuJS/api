@@ -17,6 +17,24 @@
             "author": "SakuJS Team",
             "length": "25 mins",
             "rating": 0
+        },
+        {
+            "name": "Crea tu primera App con ElectronJS",
+            "description": "¿Quien dice que no se puede hacer una App con lenguajes web?",
+            "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--6UEM9XZf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/s3uitx6rdv7sod1g2acz.png",
+            "release": "18/05/2023",
+            "cid": "FPSvh7KwJEWIQdnsMKHhkQ",
+            "experience": 10,
+            "badges": [
+                {
+                    "name": "Todos empezamos desde abajo",
+                    "icon": "URL_ICONO",
+                    "course_parent": "Introduccion a JavaScript y SakuJS"
+                }
+            ],
+            "author": "SakuJS Team",
+            "length": "25 mins",
+            "rating": 0
         }
     ]
 }
