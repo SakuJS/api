@@ -32,22 +32,6 @@
             "author": "SakuJS Team",
             "length": "25 mins",
             "rating": 0
-        },
-        {
-            "name": "Introduccion a JavaScript y SakuJS",
-            "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
-            "cid": "En1abRF1i0KCxCjXOSpXYg",
-            "experience": 10,
-            "badges": [
-                {
-                    "name": "Todos empezamos desde abajo",
-                    "icon": "URL_ICONO",
-                    "course_parent": "Introduccion a JavaScript y SakuJS"
-                }
-            ],
-            "author": "SakuJS Team",
-            "length": "25 mins",
-            "rating": 0
         }
     ]
 }
