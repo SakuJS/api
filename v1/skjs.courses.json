@@ -4,61 +4,7 @@
             "name": "Test Course 1",
             "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
             "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
-            "release": "",
-            "cid": "En1abRF1i0KCxCjXOSpXYg",
-            "experience": 10,
-            "badges": [
-                {
-                    "name": "Todos empezamos desde abajo",
-                    "icon": "URL_ICONO",
-                    "course_parent": "Introduccion a JavaScript y SakuJS"
-                }
-            ],
-            "author": "SakuJS Team",
-            "length": "25 mins",
-            "rating": 0
-        },
-        {
-            "name": "Test Course 2",
-            "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
-            "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
-            "release": "",
-            "cid": "En1abRF1i0KCxCjXOSpXYg",
-            "experience": 10,
-            "badges": [
-                {
-                    "name": "Todos empezamos desde abajo",
-                    "icon": "URL_ICONO",
-                    "course_parent": "Introduccion a JavaScript y SakuJS"
-                }
-            ],
-            "author": "SakuJS Team",
-            "length": "25 mins",
-            "rating": 0
-        },
-        {
-            "name": "Test Course 3",
-            "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
-            "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
-            "release": "",
-            "cid": "En1abRF1i0KCxCjXOSpXYg",
-            "experience": 10,
-            "badges": [
-                {
-                    "name": "Todos empezamos desde abajo",
-                    "icon": "URL_ICONO",
-                    "course_parent": "Introduccion a JavaScript y SakuJS"
-                }
-            ],
-            "author": "SakuJS Team",
-            "length": "25 mins",
-            "rating": 0
-        },
-        {
-            "name": "Test Course 4",
-            "description": "Introducete a Javascript y al funcionamento de SakuJS con este sencillo curso.",
-            "thumbnail": "https://https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
-            "release": "",
+            "release": "15/04/2023",
             "cid": "En1abRF1i0KCxCjXOSpXYg",
             "experience": 10,
             "badges": [
